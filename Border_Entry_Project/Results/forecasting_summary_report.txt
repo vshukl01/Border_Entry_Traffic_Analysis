@@ -1,0 +1,37 @@
+==========================================================================
+                      BORDER ENTRY FORECASTING REPORT                     
+==========================================================================
+All forecasting and analysis steps have been successfully completed.
+This report summarizes key findings based on historical and forecasted data.
+
+Forecasting Summary
+--------------------------------------------------------------------------
+Total forecasted records     : 1160
+Unique ports forecasted      : 116
+Forecasting time period      : 2026 through 2035
+
+Top 10 Ports by Total Forecasted Border Entry Volume
+--------------------------------------------------------------------------
+Rank | Port Name                    | Predicted Total Entries
+-----|------------------------------|--------------------------
+   1 | San Ysidro                   |          370,870,345
+   2 | Otay Mesa                    |          211,812,640
+   3 | Laredo                       |          147,136,477
+   4 | El Paso                      |           99,566,856
+   5 | Calexico East                |           88,462,212
+   6 | Nogales                      |           86,026,705
+   7 | San Luis                     |           80,381,208
+   8 | Blaine                       |           73,050,049
+   9 | Ysleta                       |           71,190,999
+  10 | Brownsville                  |           69,458,197
+
+Explanation
+--------------------------------------------------------------------------
+The rankings above represent the ports expected to experience the highest
+total volume of inbound traffic over the forecast period.
+These values are based on historical trends modeled using linear regression,
+projected forward from the most recent available year in the dataset.
+Each value reflects the sum of all predicted yearly entries for that port
+between 2026 and 2035.
+
+==========================================================================
